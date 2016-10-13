@@ -1,0 +1,35 @@
+p {
+	color: red; /*text color*/
+	font-size: 20px; /*font size*/
+	font-weight: bold; /*font weight*/
+	text-decoration: underline; /*font decoration*/
+	text-transform: uppercase; /*tekst transfrom*/
+}
+
+
+
+.normal-text {
+	color: black;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-decoration: none;
+	font-transfrom: none;
+	background-color: green;
+}
+
+.link{
+	font-family: comic sans ms, Arial, Helvetica, sans-serif;
+	background-color: blue;
+	color:white;
+	text-transform: uppercase;
+	font-size: 100px;
+	text-decoration: none;
+
+}
+
+#sample-text{
+	word-spacing:10px;
+	letter-spacing:2px;
+	background-color:cyan;
+}
